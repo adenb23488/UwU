@@ -1,0 +1,14 @@
+# Everything here is uploaded as a static asset when this folder is deployed,
+# so keep source, config and tooling out of it.
+.cloud-attachments/
+.freebuff/
+.git/
+node_modules/
+.wrangler/
+.wrangler-check/
+.buncheck/
+worker/
+wrangler.jsonc
+wrangler.toml
+.assetsignore
+.dev.vars
